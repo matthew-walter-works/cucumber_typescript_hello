@@ -1,0 +1,23 @@
+{
+  "name": "cucumber_typescript_hello",
+  "version": "1.0.0",
+  "description": "test cucumber.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cucumber": "^4.1.0"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwalter-healthagen/cucumber_typescript_hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwalter-healthagen/cucumber_typescript_hello/issues"
+  },
+  "homepage": "https://github.com/mwalter-healthagen/cucumber_typescript_hello#readme"
+}
