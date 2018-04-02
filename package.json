@@ -12,7 +12,7 @@
     "cucumber-pretty": "^1.4.1"
   },
   "scripts": {
-    "test": "cucumber-js"
+    "test": "cucumber-js -f ./node_modules/cucumber-pretty"
   },
   "repository": {
     "type": "git",
