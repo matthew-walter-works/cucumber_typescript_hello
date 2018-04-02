@@ -8,7 +8,8 @@
     "save-dev": "^2.0.0"
   },
   "devDependencies": {
-    "cucumber": "^4.1.0"
+    "cucumber": "^4.1.0",
+    "cucumber-pretty": "^1.4.1"
   },
   "scripts": {
     "test": "cucumber-js"
