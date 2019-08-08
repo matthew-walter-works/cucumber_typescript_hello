@@ -15,3 +15,4 @@ https://github.com/cucumber/cucumber-js/blob/master/docs/nodejs_example.md
 ### Windows
 1) Does not seem to work with Intelij, needs to be run via commandline
 2) Needs to use Windows style relative paths for example not `./myDir` but `.\\myDir`
+
